@@ -4,9 +4,9 @@
   <a href="https://github.com/nadianabiha"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Visit Nadia Nabiha on GitHub" /></a>
 </div>
 
-<h1 align="center">Hi, I'm Nadia Nabiha 👋</h1>
-<p align="center"><strong>Developer · Technology Enthusiast</strong></p>
-<p align="center">Learning, building, and turning ideas into software.</p>
+<h1 align="center">Hi, I'm Nadia Nabiha Dziqra 👋</h1>
+<p align="center"><strong>Software Engineer | Web & Mobile Developer.</strong></p>
+<p align="center">Designing, developing, and building innovative software solutions for web and mobile applications..</p>
 
 ## About Me
 
