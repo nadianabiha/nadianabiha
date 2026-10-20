@@ -47,7 +47,15 @@ I'm building and improving software projects as I grow my skills. Browse my [pub
 
 > Pin your portfolio and `topic2-sudoku` repositories on GitHub to feature them here. Keep private project details private.
 
-## GitHub Snapshot
+## Contribution Activity
+
+<p align="center"><sub>Recent public activity, shown in a calm dark palette.</sub></p>
+
+<div align="center">
+  <a href="https://github.com/nadianabiha">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadianabiha&bg_color=0B1020&color=CBD5E1&title_color=7DD3FC&line=22D3EE&point=A78BFA&area_color=1E3A8A&area=true&hide_border=true&custom_title=Contribution%20Activity&height=280&radius=12" alt="Nadia Nabiha's recent GitHub contribution activity" />
+  </a>
+</div>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nadianabiha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics for Nadia Nabiha" />
@@ -58,12 +66,7 @@ I'm building and improving software projects as I grow my skills. Browse my [pub
   <img src="https://streak-stats.demolab.com?user=nadianabiha&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadianabiha&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=BC8CFF&area=true&hide_border=true" alt="GitHub contribution activity" />
-</div>
-
 *Cards use publicly available GitHub activity and may not include private contributions. External services can occasionally be unavailable.*
-
 ## Achievements
 
 <div align="center">
@@ -80,3 +83,4 @@ I'm building and improving software projects as I grow my skills. Browse my [pub
   <img src="https://komarev.com/ghpvc/?username=nadianabiha&style=flat-square&color=58A6FF" alt="Profile views" />
   <p><sub>Thanks for visiting my profile — have a great day! ✨</sub></p>
 </div>
+
