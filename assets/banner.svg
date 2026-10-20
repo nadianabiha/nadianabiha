@@ -1,24 +1,60 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Nadia Nabiha — Developer and Technology Enthusiast</title>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nadia Nabiha Dziqra — Software Engineer and Web &amp; Mobile Developer</title>
   <desc id="desc">A dark blue and purple technology themed banner with subtle grid lines and glowing accents.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#101a35"/><stop offset="1" stop-color="#17102c"/></linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#91a8d8" stroke-opacity=".09" stroke-width="1"/></pattern>
-    <radialGradient id="orb"><stop stop-color="#38bdf8" stop-opacity=".28"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#101a35"/>
+      <stop offset="1" stop-color="#17102c"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#91a8d8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="orb">
+      <stop stop-color="#38bdf8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+
   <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
   <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
   <circle cx="1010" cy="65" r="250" fill="url(#orb)"/>
   <path d="M810 0h390v360H920c76-74 118-169 0-360Z" fill="#8b5cf6" opacity=".08"/>
+
   <g fill="none" stroke="url(#glow)" stroke-width="2" opacity=".8">
     <path d="M925 116h44l24 24-24 24h-44M1048 116h42l24 24-24 24h-42M1008 93l-21 94"/>
-    <circle cx="1088" cy="255" r="40" opacity=".45"/><circle cx="1088" cy="255" r="58" opacity=".2"/>
+    <circle cx="1088" cy="255" r="40" opacity=".45"/>
+    <circle cx="1088" cy="255" r="58" opacity=".2"/>
   </g>
+
   <rect x="72" y="66" width="5" height="228" rx="3" fill="url(#glow)"/>
-  <text x="104" y="143" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Hi, I'm Nadia Nabiha</text>
-  <text x="106" y="190" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="23">Developer <tspan fill="#38bdf8">|</tspan> Technology Enthusiast</text>
-  <text x="106" y="239" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="17">Welcome to my GitHub profile</text>
-  <path d="M106 267h258" stroke="url(#glow)" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="104" y="143" fill="#f8fafc"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="42" font-weight="700">
+    Hi, I'm Nadia Nabiha Dziqra
+  </text>
+
+  <text x="106" y="190" fill="#cbd5e1"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="23">
+    Software Engineer
+    <tspan fill="#38bdf8"> | </tspan>
+    Web &amp; Mobile Developer
+  </text>
+
+  <text x="106" y="239" fill="#94a3b8"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="17">
+    Designing and building modern digital experiences.
+  </text>
+
+  <path d="M106 267h258" stroke="url(#glow)"
+        stroke-width="3" stroke-linecap="round"/>
   <circle cx="378" cy="267" r="4" fill="#a78bfa"/>
 </svg>
